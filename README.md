@@ -1,1 +1,1 @@
-# java_singleton
+# java_test
